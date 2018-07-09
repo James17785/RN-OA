@@ -1,0 +1,13 @@
+{
+    "header":{
+        "statusCode":200
+    },
+    "body":{
+        "staffID":"000001",
+        "name":"James",
+        "project":"ABC",
+        "phone":"110",
+        "email":"woshishui@gmail.com",
+        "rmEmail":"Jameshhh@gmail.com"
+    }
+}
