@@ -1,0 +1,13 @@
+{
+    "header":{
+        "statusCode":500
+    },
+    "body":{
+        "staffID":"000002",
+        "name":"James",
+        "project":"ABC",
+        "phone":"110",
+        "email":"woshishui@gmail.com",
+        "department":"第一事业部"
+    }
+}
